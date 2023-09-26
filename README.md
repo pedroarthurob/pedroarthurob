@@ -1,8 +1,8 @@
 ### Fala galerinha, 
 <div >
   <img alt="Pedro-GIF" height="180em" width="40 src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroarthurob&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroarthurob&layout=compact&langs_count=5&theme=dracula"/>
+  <img height="180em" src="https://my-github-readme-stats-p7599vpvl.vercel.app/api?username=pedroarthurob&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://my-github-readme-stats-p7599vpvl.vercel.app/api/top-langs/?username=pedroarthurob&exclude_repo=my-github-readme-stats&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
