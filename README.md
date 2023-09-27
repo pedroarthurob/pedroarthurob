@@ -9,8 +9,8 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://my-github-readme-stats-p7599vpvl.vercel.app/api?username=pedroarthurob&show_icons=true&theme=blue_navy&bg_color=00000000&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://my-github-readme-stats-p7599vpvl.vercel.app/api/top-langs/?username=pedroarthurob&exclude_repo=my-github-readme-stats&layout=compact&langs_count=7&theme=blue_navy&bg_color=00000000"/>
+  <img width="49%" height="195px" src="https://my-github-readme-stats-p7599vpvl.vercel.app/api?username=pedroarthurob&show_icons=true&theme=blue_navy&bg_color=00000000&include_all_commits=true&count_private=true"/>
+  <img width="41%" height="195px" src="https://my-github-readme-stats-p7599vpvl.vercel.app/api/top-langs/?username=pedroarthurob&exclude_repo=my-github-readme-stats&layout=compact&langs_count=7&theme=blue_navy&bg_color=00000000"/>
 </div>
 
 ## Skills
