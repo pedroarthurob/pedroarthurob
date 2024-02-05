@@ -10,7 +10,7 @@
 
 <div align="center">
   <img width="49%" height="195px" src="https://my-github-git-701612-pedro-arthur-de-oliveira-barretos-projects.vercel.app/api?username=pedroarthurob&show_icons=true&theme=blue_navy&bg_color=00000000&include_all_commits=true&count_private=true"/>
-  <img width="41%" height="195px" src="https://my-github-git-701612-pedro-arthur-de-oliveira-barretos-projects.vercel.app/api/top-langs/?username=pedroarthurob&exclude_repo=my-github-readme-stats&layout=compact&langs_count=7&theme=blue_navy&bg_color=00000000"/>
+  <img width="41%" height="195px" src="https://my-github-git-701612-pedro-arthur-de-oliveira-barretos-projects.vercel.app/api/top-langs/?username=pedroarthurob&exclude_repo=my-github-readme-stats,github-readme-stats&layout=compact&langs_count=7&theme=blue_navy&bg_color=00000000"/>
 </div>
 
 ## Skills
@@ -19,6 +19,10 @@
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pedro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Pedro-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Pedro-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+          
+          
 </div>
 
 ## Socials
