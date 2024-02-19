@@ -10,7 +10,7 @@
 
 <div align="center">
   <img width="49%" height="195px" src="https://my-github-git-701612-pedro-arthur-de-oliveira-barretos-projects.vercel.app/api?username=pedroarthurob&show_icons=true&theme=blue_navy&bg_color=00000000&include_all_commits=true&count_private=true"/>
-  <img width="41%" height="195px" src="https://my-github-git-701612-pedro-arthur-de-oliveira-barretos-projects.vercel.app/api/top-langs/?username=pedroarthurob&exclude_repo=my-github-readme-stats,github-readme-stats,dio-lab-open-source&layout=compact&langs_count=7&theme=blue_navy&bg_color=00000000&hide=ShaderLab"/>
+  <img width="41%" height="195px" src="https://my-github-git-701612-pedro-arthur-de-oliveira-barretos-projects.vercel.app/api/top-langs/?username=pedroarthurob&exclude_repo=my-github-readme-stats,github-readme-stats,dio-lab-open-source&layout=compact&langs_count=7&theme=blue_navy&bg_color=00000000&hide=ShaderLab,HLSL"/>
 </div>
 
 ## Skills
